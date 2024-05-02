@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HeleneKW 
-- 👀 I’m interested in social data science 
 - 🌱 I’m currently learning to do data analysis in Python 
 - 💞️ I’m looking to collaborate on experiments around digital lives, using digital methods and social data.
 - 📫 How to reach me: send an email to hw@sodas.ku.dk 
