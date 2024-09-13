@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HeleneKW 
 - 🌱 I’m currently learning to do data analysis in Python 
-- 💞️ I’m looking to collaborate on experiments around digital lives, using digital methods and social data.
-- 📫 How to reach me: send an email to hw@sodas.ku.dk 
+- 💞️ I’m looking to collaborate on experiments on improving the working environment 
 
 <!---
 HeleneKW/HeleneKW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
